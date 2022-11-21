@@ -1,4 +1,4 @@
-# Pi and Euler's number
+# Pi and Euler's number - gr12, Nov 2022
 
 Formulas for getting an approximate number of pi:
 
