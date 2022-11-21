@@ -1,4 +1,5 @@
 # this code gets a text sample and checks if it is written in English
+# it checks a 10000 word list to detect if the text is written in English
 def readFile():
   file = open('10000 English Words Frequency Ranked.txt')
   wordList = []  
