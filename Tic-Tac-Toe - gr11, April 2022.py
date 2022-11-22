@@ -1,7 +1,6 @@
 import os
 import random
 import math
-import click
 
 def print_board(aboard):
   print()
